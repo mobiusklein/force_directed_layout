@@ -1,1 +1,1 @@
-A poor facsimile of the force-directed layout algorithms in d3.js
+A terrible facsimile of the force-directed layout algorithms in d3.js
